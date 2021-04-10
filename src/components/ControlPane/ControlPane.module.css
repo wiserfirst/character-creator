@@ -13,6 +13,7 @@
 }
 
 .title {
+  left: 24px;
   margin: 0;
   /* Optical centering */
   margin-bottom: -4px;
